@@ -70,7 +70,7 @@ function showNotes() {
         notesElement.innerHTML = html;
     }
     else {
-        notesElement.innerHTML = 'Nothing to show. Use "Add Note" to add a new Note.';
+        notesElement.innerHTML = 'Nothing to show. Create a new note to show up.';
     }
 }
 
